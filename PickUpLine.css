@@ -1,6 +1,7 @@
 
 html {
     font-size: 16px;
+    background-color: rgb(219, 107, 107);
 
 }
 
@@ -9,11 +10,60 @@ body {
     text-align: center;
 }
 
-div {
+#big-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#photo-container {
     display: inline-block;
+    position: relative;
+    top: 3rem;
+    
+}
+
+#button-container {
+    display: inline-block;
+    position: relative;
+    top: 1.85rem;
 }
 
 button {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 1.25rem 2.5rem;
+    font-size: 1.5rem;
+    font-family: "Bangers";
+    color: black;
+    background-color: rgb(208, 203, 203);
+    border: .25rem solid rgb(10, 9, 9);
+    cursor: pointer;
+    
 }
+
+button:active {
+ background-color: white;
+ -webkit-box-shadow: inset 0rem orem .30rem rgb(86, 76, 76);
+ -moz-box-shadow: inset 0rem orem .30rem rgb(86, 76, 76);
+ box-shadow: inset 0rem orem .30rem rgb(86, 76, 76);
+ transform: scale(0.98);
+ outline: none;
+}
+
+h1 {
+    font-family: "Bangers";
+    font-size: 3rem;
+    
+}
+
+h2 {
+    font-family: "Bangers";
+    font-size: 1.75rem;
+}
+
+h3 {
+    font-family: "Gilda Display";
+    font-size: 1.25rem;
+}
+
