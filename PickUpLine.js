@@ -13,9 +13,9 @@ let pickupLines = ['Well, here I am. What are your other two wishes?', 'I must b
 'You are a 9/10 and I am the 1 you need.', 'Do you like raisins? How do you feel about a date?'];
 
 function getRandomNumber(min, max) {
-    let step1 = max - min + 1;
-    let step2 = Math.random() * step1;
-    let result = Math.floor(step2) + min;
+    let firstNum = max - min + 1;
+    let secondNum = Math.random() * firstNum;
+    let result = Math.floor(secondNum) + min;
 
     return result;
 }
