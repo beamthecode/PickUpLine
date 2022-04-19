@@ -53,8 +53,10 @@ This generator allowed me to satisfy the project **objectives**, while also havi
 ### Built with:
 
 > [JavaScript](https://github.com/topics/javascript)
-[CSS](https://github.com/topics/css)
-[HTML](https://github.com/topics/html)
+>
+> [CSS](https://github.com/topics/css)
+>
+> [HTML](https://github.com/topics/html)
 
 
 ---
