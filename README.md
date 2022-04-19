@@ -94,7 +94,7 @@ I used [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) to 
 
 
 
-
+---
 
 
 ## Code Example 
@@ -114,6 +114,8 @@ return  result;
 }
 
 
+---
+
 ## Credits
 
 > [Codecademy](https://www.codecademy.com)
@@ -121,6 +123,7 @@ return  result;
 > Shout out to the folks at **Codecademy** for including this random message generator project in the curriculum. This is my first time building a project on my own with interactive code, so it has been a great learning experience!
 
 
+---
 
 
 ## License
