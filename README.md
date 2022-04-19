@@ -111,6 +111,7 @@ let  secondNum = Math.random() * firstNum;
 let  result = Math.floor(secondNum) + min;
 
 return  result;
+
 }
 
 
